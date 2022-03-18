@@ -299,15 +299,15 @@ padding-left: 0;
 
 /* Menu */
 .menu-btn{
-    outline: thin solid var(--first-color);
+    outline: thin solid var(--black-color);
     border: 0;
     cursor: pointer;
-    background-color: var(--second-color);
+    background-color: var(--white-color);
     
 }
 
 .menu-btn svg{
-    fill: var(--first-color);
+    fill: var(--black-color);
 }
 
 .menu{
@@ -343,8 +343,8 @@ padding-left: 0;
 
 .menu a:hover{
     
-    color:var(--gray-color);
-    background-color: var(--first-color);
+    color:var(--white-color);
+    background-color: var(--black-color);
 }
 
 
